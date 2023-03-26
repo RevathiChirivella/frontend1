@@ -1,0 +1,24 @@
+.div1 {
+    background-image: url("C:\Users\chirivella.revathi\Desktop\WebAppRetail\webapp\public\assets\images\bg.jpg") ;
+    position: relative;
+    
+}
+
+
+.div2 {
+    background-image: url("C:\Users\chirivella.revathi\Desktop\WebAppRetail\webapp\public\assets\images\login.jpg") ;
+    
+}
+ 
+.texts{
+    background-color: white;
+    padding: 20px; 
+    
+    
+}
+
+.vox{
+    background-color: white;
+    padding: 20px;
+
+}

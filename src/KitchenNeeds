@@ -1,0 +1,11 @@
+import React from 'react';
+
+const KitchenNeeds = () => {
+    return (
+        <div>
+
+        </div>
+    )
+}
+
+export default KitchenNeeds;
